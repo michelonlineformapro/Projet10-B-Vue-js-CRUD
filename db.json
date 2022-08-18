@@ -1,0 +1,22 @@
+{
+  "produits": [
+    {
+      "id": 1,
+      "title": "Megaman 2",
+      "description": "Mega Man 2 est un jeu de plates-formes développé et édité par Capcom sur NES en 1988, puis porté sur Console virtuelle, et téléphone mobile. C'est le deuxième jeu de la série principale de Mega Man.",
+      "picture": "https://www.gamecash.fr/thumbnail-600/mega-man-2-e51287.jpg",
+      "price": 4863.5,
+      "stock": 15,
+      "publier": false
+    },
+    {
+      "id": 2,
+      "title": "Duck Tales",
+      "description": "Disney's DuckTales est un jeu vidéo de plate-forme adapté de la série d'animation du même nom La Bande à Picsou. Le jeu, développé par Capcom est d'abord sorti aux États-Unis sur NES en 1989 avant d'être porté sur Game Boy l'année suivante.",
+      "picture": "https://image.jeuxvideo.com/images-sm/ns/d/u/dutans0f.jpg",
+      "price": 253.5,
+      "stock": 65,
+      "publier": false
+    }
+  ]
+}

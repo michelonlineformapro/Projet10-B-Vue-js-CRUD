@@ -1,0 +1,16 @@
+html, body{
+    background-color: #D9C179;
+    color: #A62F03;
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Anton', sans-serif!important;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.bg-info{
+    background-color: #A62F03!important;
+}
