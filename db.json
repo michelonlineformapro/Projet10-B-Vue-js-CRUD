@@ -17,6 +17,51 @@
       "price": 253.5,
       "stock": 65,
       "publier": false
+    },
+    {
+      "id": 3,
+      "title": "Castlevania",
+      "description": "Castlevania, connu au Japon sous le nom Akumajō Dracula (悪魔城ドラキュラ?), est une série de jeux vidéo éditée par Konami, débutée en 1986 et qui a dépassé les vingt épisodes. Cette série est considérée comme l'une des plus importantes de l'histoire du jeu vidéo. ",
+      "picture": "https://www.gamecash.fr/thumbnail-600/castlevania-e20667.jpg",
+      "price": 743.5,
+      "stock": 6500,
+      "publier": false
+    },
+    {
+      "id": 4,
+      "title": "Kid Icarus",
+      "description": "Kid Icarus est un jeu vidéo de plates-formes, le premier de la série qui porte son nom. Développé par Nintendo R&D1 et édité par Nintendo, le jeu est sorti sur Famicom Disk System en 1986 au Japon. Il sort ensuite sur Nintendo Entertainment System en 1987 aux États-Unis et en Europe.",
+      "picture": "https://www.gamulator.com/img/roms/kid-icarus-angel-land-story-nes-cover.jpg",
+      "price": 75.5,
+      "stock": 740,
+      "publier": false
+    },
+    {
+      "id": 5,
+      "title": "Super Mario Bros 3",
+      "description": "Super Mario Bros. 3 est un jeu vidéo de plates-formes développé et édité par Nintendo sur Nintendo Entertainment System. Il s'agit du troisième volet de la série Super Mario et il est commercialisé en 1988 au Japon, en 1990 aux États-Unis et en 1991 en Europe.",
+      "picture": "https://m.media-amazon.com/images/I/71zY1hWITWL._AC_SY741_.jpg",
+      "price": 250.35,
+      "stock": 74,
+      "publier": false
+    },
+    {
+      "id": 6,
+      "title": "The Legend Of Zelda II",
+      "description": "Zelda II: The Adventure of Link est un jeu vidéo de type action-RPG développé et édité par Nintendo en janvier 1987 au Japon sur Famicom Disk System, l'extension de la Famicom. Il s'agit du deuxième épisode de la série The Legend of Zelda, suite directe du jeu éponyme sorti un an auparavant.",
+      "picture": "https://www.nautiljon.com/images/jeuxvideo/00/98/legend_of_zelda_2_the_the_adventure_of_link_asie_389.jpg?1489339829",
+      "price": 784.35,
+      "stock": 244,
+      "publier": false
+    },
+    {
+      "id": 7,
+      "title": "Double Dragon II",
+      "description": "Double Dragon 2: The Revenge est un jeu vidéo de type beat them all développé par Technos, sorti sur borne d'arcade en 1988 et adapté sur la plupart des consoles de jeu et des micro-ordinateurs de l'époque.",
+      "picture": "https://retroarchives.fr/wp-content/uploads/Flyer-35.jpg",
+      "price": 58.35,
+      "stock": 214,
+      "publier": false
     }
   ]
 }
