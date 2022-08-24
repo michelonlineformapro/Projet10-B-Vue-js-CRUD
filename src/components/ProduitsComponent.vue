@@ -36,7 +36,7 @@
             <div class="col-md-6 col-sm-12 shadow p-3 bg-white rounded">
                 <div v-if="produitCourant">
                     <h3 class="bg-warning p-2 text-danger">{{produitCourant.title}}</h3>
-                    <img v-bind:src="produitCourant.picture" :alt="produitCourant.title" :title="produitCourant.title"/>
+                    <img v-bind:src="produitCourant.picture" :alt="produitCourant.title" :title="produitCourant.title" width="50%"/>
                      <div>
                         <p><b>Description :</b></p>
                         <p>{{ produitCourant.description }}</p>

@@ -62,6 +62,15 @@
       "price": 58.35,
       "stock": 214,
       "publier": false
+    },
+    {
+      "id": 8,
+      "title": "Tetris",
+      "description": "Tetris est un jeu vidéo de puzzle conçu par Alekseï Pajitnov à partir de juin 1984 sur Elektronika 60. Lors de la création du concept, Pajitnov est aidé de Dmitri Pavlovski et Vadim Guerassimov pour le développement. ",
+      "picture": "https://image.jeuxvideo.com/images-sm/ns/t/e/tetrns0f.jpg",
+      "price": 741.35,
+      "stock": 884,
+      "publier": false
     }
   ]
 }
