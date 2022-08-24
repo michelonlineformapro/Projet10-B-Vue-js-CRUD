@@ -1,5 +1,5 @@
 <template>
-  <ProduitsComponent/>
+  <ProduitsComponent name="vuejs"/>
 </template>
 
 <script>
